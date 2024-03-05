@@ -104,19 +104,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-## 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.mhuzaifa.com"><img src="https://img.shields.io/badge/-mhuzaifa.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mhuzaifadev"><img src="https://img.shields.io/badge/-M%20Huzaifa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mhuzaifadev@gmail.com"><img src="https://img.shields.io/badge/-mhuzaifadev@gmail.com-D14836?style=flail&logoColor=white"/></a>
-<a href="https://facebook.com/mhuzaifadev"><img src="https://img.shields.io/badge/-@mhuzaifadev-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-  
-
-- 👯 Open to opensource contributions
-- 💬 Ask me about anything in ML
-- ✉️ Reach me at mhuzaifadev@gmail.com for contact
-- 💼 LinkedIn: https://linkedin.com/in/mhuzaifadev
